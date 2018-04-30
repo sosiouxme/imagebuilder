@@ -69,5 +69,8 @@ done
 %pre
 
 %changelog
+* Mon Apr 30 2018 Luke Meyer <lmeyer@redhat.com> 0.0.1-1
+- new package built with tito
+
 * Mon Nov 06 2017 Anonymous <anon@nowhere.com> 0.0.1
 - Initial example of spec.
